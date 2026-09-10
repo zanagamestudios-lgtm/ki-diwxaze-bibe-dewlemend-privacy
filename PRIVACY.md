@@ -1,25 +1,25 @@
-# Kî Dixwaze Bibe Dewlemend - Pêşbirka Zanînê — Gizlilik Politikası
+# Kî Dixwaze Bibe Dewlemend - Pêşbirka Zanînê
 
-**Kısa ad:** Dewlemend
+**Navê kurt:** Dewlemend
 
-**Son güncelleme:** 10 Eylül 2026
+**Rojê nûkirinê:** 10 Îlon 2026
 
-## Türkçe
+## Siyaseta nepenîtiyê
 
-Kî Dixwaze Bibe Dewlemend - Pêşbirka Zanînê, kısa adıyla Dewlemend, bağımsız bir Kurmancî bilgi oyunudur. Temel oyun deneyimi için hesap, ad-soyad, e-posta, telefon, konum veya kişi listesi erişimi istemez. Kullanıcı tarafından sağlanan soru bankası ve oyun akışı cihaz üzerinde çalışır.
+Kî Dixwaze Bibe Dewlemend - Pêşbirka Zanînê, bi navê kurt Dewlemend, lîstikeke zanînê ya serbixwe ye. Ji bo lîstikê hesab, nav, paşnav, e-name, telefon, cih an gihiştina navnîşana kesan ne pêwîst e. Banka pirsan û herikîna lîstikê li ser cîhazê dixebitin.
 
-Uygulama, kullanıcının açıkça başlattığı gönüllü ödüllü reklam deneyimi ve Google Play üzerinden isteğe bağlı destek satın alımları sunabilir. Bu işlemler Google Play ve reklam sağlayıcısının kendi gizlilik politikalarına tabidir. Uygulama ödeme kartı bilgilerini görmez veya saklamaz. Satın alma süreci Google Play tarafından yürütülür.
+Dewlemend agahiyên kesane ji bo profîl, torên civakî, şopandina cihê an analîtîkê kom nakê. Dengên sepanê li hundirê sepanê ne û mikrofon nayê bikaranîn.
 
-Uygulama kişisel profil, sosyal ağ, konum takibi veya uygulama içi analitik sistemi kullanmaz. Ses dosyaları uygulama içinde yerel olarak bulunur; mikrofon kaydı yapılmaz.
+## Reklam û piştgirî
 
-## Kurdî (Kurmancî)
+Sepênê dikare reklama xelatdar a dilxwaz pêşkêş bike. Ev reklama tenê piştî daxwaza bikarhênerê dest pê dike. Her weha sê hilbijartinên piştgiriyê yên bijarte bi Google Playê re hene.
 
-Kî Dixwaze Bibe Dewlemend - Pêşbirka Zanînê, bi navê kurt Dewlemend, lîstikeke zanînê ya serbixwe ye. Ji bo lîstikê hesab, nav, e-name, telefon, cih an gihiştina navnîşana kesan ne pêwîst e. Banka pirsan û herikîna lîstikê li ser cîhazê dixebite.
+Karûbarên reklamê û dayîna pere li gorî siyaseta nepenîtiyê ya Google Play û peydakera reklamê têne rêvebirin. Dewlemend agahiyên karta dayînê nabîne û na tomar dike. Pêvajoya kirînê ji aliyê Google Playê ve tê rêvebirin.
 
-Di lîstikê de reklama dilxwaz û piştgiriyên bijarte yên Google Play hene. Karûbarên reklam û dayîna pere li gorî siyaseta nepenîtiyê ya Google Play û peydakera reklamê têne rêvebirin. Lîstik agahiyên karta dayînê nabîne û na tomar dike.
+## Danasîna daneyan
 
-Dengên hostê li hundirê sepanê ne; mikrofon nayê bikaranîn.
+Dewlemend di bingehê lîstikê de daneyên kesane naşîne ser serverekê. Pirs û herikîna lîstikê li ser cîhazê têne hilbijartin. Ji bo karûbarên reklam û kirînê, peydakerên têkildar dikarin daneyên teknîkî yên pêwîst bixebitînin.
 
-## Bağımsız ürün notu
+## Berhemeke serbixwe
 
-Bu uygulama herhangi bir televizyon programının, yayıncının veya başka bir markanın resmi ürünü değildir.
+Dewlemend berhemeke serbixwe ye û bi tu bernameya televîzyonê, weşanger an nîşana din re têkiliya fermî nîne.
